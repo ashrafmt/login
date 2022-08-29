@@ -1,0 +1,126 @@
+body {
+	background: url(img/gg.jpg) no-repeat fixed center;
+	position: fixed;
+	width: 120%;
+	height: 120%;
+	background-size: cover;
+	font-family: sans-serif;
+}
+
+.login {
+	width: 400px;
+	height: 450px;
+	top: 10%;
+	left: 30%;
+	background: rgba(0, 0, 0, 0.3);
+	position: absolute;
+
+
+}
+
+
+h2 {
+	color: white;
+	text-align: center;
+}
+
+div input {
+	margin-bottom: 20px;
+	width: 70%;
+	left: 40px;
+	font-size: 18px;
+	position: relative;
+	text-indent: 35px;
+	padding: 0.7rem;
+
+}
+
+a.FP {
+	color: white;
+	margin-bottom: 20px;
+	left: 40px;
+	font-size: 18px;
+	bottom: 10px;
+	position: relative;
+	text-decoration: none;
+
+
+}
+
+form {
+	width: 400px;
+	position: relative;
+}
+
+form button {
+
+	background-color: #2b99e2;
+	color: #fff;
+	margin-bottom: 20px;
+	width: 76%;
+	left: 40px;
+	font-size: 18px;
+	position: relative;
+	padding: 0.7rem ;
+	text-align: center;
+	border: none;
+
+}
+
+.logwith {
+	margin-bottom: 20px;
+	text-align: center;
+	font-size: 18px;
+	bottom: 8px;
+	color: #fff;
+
+
+}
+
+img {
+	position: relative;
+	left: 35px;
+	height: 44.5px;
+
+}
+
+
+.CreateAccount {
+	color: white;
+	margin-bottom: 20px;
+	left: 40px;
+	font-size: 15px;
+	bottom: 8px;
+	text-align: center;
+
+}
+
+a.signup {
+	color: rgb(57, 69, 240);
+	text-decoration: none;
+
+}
+
+#text1 {
+	background-image: url(img/g2.png);
+	position: left;
+	padding-left: 10px;
+	background-size: 25px;
+	background-repeat: no-repeat;
+	background-position: 10px center;
+
+}
+
+#text2 {
+	background-image: url(img/g1.png);
+	position: left;
+	padding-left: 10px;
+	background-size: 25px;
+	background-repeat: no-repeat;
+	background-position: 10px center;
+
+
+}
+
+
+
